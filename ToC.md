@@ -2,7 +2,7 @@
 
 ### The following are a listing of the topics i've learned in Code201 class.  
 
-|  ### Name   |  ### Title | ### Link  |
+|   **Name**   |  **Title** |  **Link**  |
 |---------|--------|-------|
 |  Read01 | HTML,CSS & JS Basics | [Click to go!!](https://tommalieh.github.io/reading-notes/Class-01) |
 |  Read02 |        |       |
