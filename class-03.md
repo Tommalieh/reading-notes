@@ -6,7 +6,7 @@
 
 * HTML provides us with three different types:
 
-  1* **Ordered lists** are lists where each item in the list is numbered.  
+  1. **Ordered lists** are lists where each item in the list is numbered.  
     *Example:*
     ```
     <ol>
