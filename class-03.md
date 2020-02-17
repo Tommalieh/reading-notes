@@ -8,46 +8,53 @@
 
   1. **Ordered lists** are lists where each item in the list is numbered.  
     *Example:*
-    ```
-    <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-    </ol>
+    
+      ```
+      <ol>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+      </ol>
 
-    ```  
+      ```  
      * The ordered list is created with the `<ol>` element.
+     
      * Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag. (The li stands for list item.)
 
 
   2. **Unordered lists** are lists that begin with a bullet point (rather than characters that indicate order).
     *Example:* 
-    ```
-    <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-    </ul>
     
-    ```  
-     * The unordered list is created with the `<ul>` element.
-     * Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag. (The li stands for list item.)
+      ```
+      <ul>
+          <li>Item 1</li>
+           <li>Item 2</li>
+          <li>Item 3</li>
+      </ul>
+    
+      ```  
+      * The unordered list is created with the `<ul>` element.
+      * Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag. (The li stands for list item.)
 
 
   3. **Definition lists** are made up of a set of terms along with the definitions for each of those terms.  
     *Example:*  
-    ```
-    <dl>
-        <dt>Item 1</dt>
-        <dd>Definition of item 1</dd>
-        <dt>Item 2</dt>
-        <dd>Defenition of Item 2</dd>
-    </dl>
     
-    ```  
-     * The definition list is created with the `<dl>` element and usually consists of a series of terms and their definitions. Inside the `<dl>` element you will usually see pairs of `<dt>` and `<dd>` elements. 
-     * `<dt>` is used to contain the term being defined (the definition term).
-     * `<dd>`is used to contain the definition.  
+    
+     ```
+      <dl>
+          <dt>Item 1</dt>
+          <dd>Definition of item 1</dd>
+          <dt>Item 2</dt>
+          <dd>Defenition of Item 2</dd>
+      </dl>
+    
+     ```  
+      * The definition list is created with the `<dl>` element and usually consists of a series of terms and their definitions. Inside          the `<dl>` element you will usually see pairs of `<dt>` and `<dd>` elements. 
+     
+      * `<dt>` is used to contain the term being defined (the definition term).
+     
+      * `<dd>`is used to contain the definition.  
 
 * You can put a second list inside an `<li>` element to create a sublist or nested list.  
 
@@ -70,7 +77,6 @@
 
 * The **padding** and **margin** properties are very helpful in adding *space* between various items on the page.
 
-* 
 
 ## JavaScript  
 
@@ -112,7 +118,7 @@
     
     * **false**, **0**, **''**, **10/'score'**, and also a **variable with no assigned value to it**.  
 
-  * Almost everything that is not mentioned above can be treated as if it were true. In addition, the presence of an object or an array is usually considered truthy, too. **This is commonly used when checking for the presence of an element in a page**.  
+  * Almost everything that is not mentioned above can be treated as if it were true. In addition, the presence of an object or an array     is usually considered truthy, too. **This is commonly used when checking for the presence of an element in a page**.  
 
 
 * Loops are used to check if a condition is true or false, and depending on the return value it runs a certain block of code inside of it several time until the return value becomes false, there are differnet types of loops simialr in functionality different in structure.
