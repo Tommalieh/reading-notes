@@ -5,7 +5,7 @@
 |   **Name**   |  **Title** |  **Link**  |
 |---------|--------|-------|
 |  Read01 | HTML,CSS & JS Basics | [Click to go!!](https://tommalieh.github.io/reading-notes/Class-01) |
-|  Read02 |        |       |
+|  Read02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Click to go!!](https://tommalieh.github.io/reading-notes/class-02) |
 |  Read03 |        |       |
 |  Read04 |        |       |
 |  Read05 |        |       |
