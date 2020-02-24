@@ -28,7 +28,7 @@
 
 * The `<th>` element is used just like the `<td>` element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.) 
 
-* Example: ![IMG}](exatable.png)
+* Example: ![IMG](exatable.PNG)
 
 * Sometimes you may need the entries in a table to stretch across more than one column. The `colspan` attribute can be used on a `<th>` or `<td>` element and indicates how many columns that cell should run across.
 
