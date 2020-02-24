@@ -17,12 +17,16 @@
 * understanding the problem is the most critical piece to the equation. It is very difficult to solve a problem before you know the question.
 
 * What can you do about it?
-  1. **Make the problem domain easier**: You can often make the problem domain easier by *cutting out cases* and narrowing your focus to a particular part of the problem.
+  
+  1. **Make the problem domain easier**: You can often make the problem domain easier by *cutting out cases* and narrowing your focus to 
+  a particular part of the problem.
 
   2. **Get better at understanding the problem domain**:
-   * It is easy to fall into the **trap** of **thinking** you **understand enough of the problem** to get started coding it.
-
-   * Best to **resist the temptation** to *not waste anymore time talking* and make sure you *understand** a problem inside and out **before** you try and solve it with code.
+  
+     * It is easy to fall into the **trap** of **thinking** you **understand enough of the problem** to get started coding it.
+   
+     * Best to **resist the temptation** to *not waste anymore time talking* and make sure you *understand** a problem inside and out 
+       **before** you try and solve it with code.
 
 * And always keep in mind that *it is much more expensive and time consuming to do things over than it is to do them right the first time*. 
 
