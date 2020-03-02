@@ -13,7 +13,7 @@
 
 * The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it.
 
-* As a consequence of the way fallback is provided, unlike the <img> element, the <canvas> element requires the closing tag (</canvas>). If this tag is not present, the rest of the document would be considered the fallback content and wouldn't be displayed.
+* As a consequence of the way fallback is provided, unlike the <img> element, the <canvas> element requires the closing tag (`</canvas>`). If this tag is not present, the rest of the document would be considered the fallback content and wouldn't be displayed.
 
 * The fallback content is displayed in browsers which do not support <canvas>. Scripts can also check for support programmatically by simply testing for the presence of the getContext() method.
 
