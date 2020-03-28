@@ -1,11 +1,11 @@
 # Reading-Notes  
 
-### The following are a listing of the topics i've learned in Code201 class.  
+### The following are a listing of the topics i've learned in Code301 class.  
 
 |   **Name**   |  **Title** |  **Link**  |
 |---------|--------|-------|
-|  Read01 | HTML,CSS & JS Basics | [Click to go!!](https://tommalieh.github.io/reading-notes/Class-01) |
-|  Read02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Click to go!!](https://tommalieh.github.io/reading-notes/class-02) |
+|  Read01 | RWD & Floats | [Click to go!!](https://tommalieh.github.io/reading-notes/301/class-01) |
+|  Read02 |        |       |
 |  Read03 |        |       |
 |  Read04 |        |       |
 |  Read05 |        |       |
