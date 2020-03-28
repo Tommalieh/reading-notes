@@ -86,21 +86,21 @@
 
 * Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
-* **Example**: ![IMG](float.jpg)
+* **Example**: ![IMG](float.JPG)
 
 * Float's sister property is `clear`. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
   * Without
-    * **Example**: ![IMG](clear1.jpg)
+    * **Example**: ![IMG](clear1.JPG)
 
   * With
-    * **Example**: ![IMG](clear2.jpg)
+    * **Example**: ![IMG](clear2.JPG)
 
 * One of the more bewildering things about working with floats is how they can affect the element that contains them (their "parent" element). If this parent element contained nothing but floated elements, the height of it would literally **collapse** to nothing.
-  * **Example**: ![IMG](collapsed.jpg)
+  * **Example**: ![IMG](collapsed.JPG)
 
 * Collapsing almost always needs to be dealt with to prevent strange layout and cross-browser problems. We fix it by clearing the float after the floated elements in the container but before the close of the container.
 
 * If the block element on top were to have automatically expanded to accommodate the floated element, we would have an unnatural spacing break in the flow of text between paragraphs, with no practical way of fixing it.
-  * **Example**: ![IMG](unnaturalspace.jpg)
+  * **Example**: ![IMG](unnaturalspace.JPG)
 
 * 
