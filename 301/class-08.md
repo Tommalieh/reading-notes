@@ -29,7 +29,7 @@
     AND/OR …;
     ```
 * Conditional clause cheat sheet:
-    ![cheatsheet]('cheatsheet.JPG')
+    ![cheatsheet](cheatsheet.JPG)
 
 * ***Hint***: *As you might have noticed by now, SQL **doesn't require** you to write the keywords all **capitalized**, but as a **convention**, it helps people distinguish SQL keywords from column and tables names, and makes the query easier to read.* 
 
