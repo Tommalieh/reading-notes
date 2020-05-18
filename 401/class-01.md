@@ -78,7 +78,6 @@ Produces no side effects.  |
 | Test Drivin Development  | Test-driven development is a programming methodology with which one can tackle the design, implementation, and testing of units of code, and to some extent the expected functionality of a program.  |
 |  Jest | Jest is a JavaScript test runner, that is, a JavaScript library for creating, running, and structuring tests. Jest is distributed as an NPM package, you can install it in any JavaScript project. Jest is one of the most popular test runner these days and the default choice for Create React App.  |
 | Continuous Integration (CI)  | Practices used by developers all over the world to increase the quality of their software, and decrease the time to market for features and bug fixes.  |
-| Unit testing  | Unit testing is the process of testing the implemented code at a module level. Unit testing allows you to ensure that your developed modules are meeting the requirements specified by the business document. These tests are written for every module as they are created. After every new module development, the entire suite of test cases is run to ensure that no existing modules are affected by the developed module.
-  |
+| Unit testing  | Unit testing is the process of testing the implemented code at a module level. Unit testing allows you to ensure that your developed modules are meeting the requirements specified by the business document. These tests are written for every module as they are created. After every new module development, the entire suite of test cases is run to ensure that no existing modules are affected by the developed module. |
 |   |   |
 
