@@ -64,8 +64,7 @@ noisy(Math.min)(3, 2, 1);
 | Pure Function  | A function which given the same input, will always return the same output.
 Produces no side effects.  |
 | Higher-Order Function  | Functions that operate on other functions, either by taking them as arguments or by returning them  |
-| Immutable State  | Immutable state is state that cannot be changed. Immutable objects (for which none of the state can be changed) become important when you are dealing with concurrency, the ability for more than one processor in your computer to operate on that object at the same time.
-  |
+| Immutable State  | Immutable state is state that cannot be changed. Immutable objects (for which none of the state can be changed) become important when you are dealing with concurrency, the ability for more than one processor in your computer to operate on that object at the same time. |
 | Object  | An object, in object-oriented programming (OOP), is an abstract data type created by a developer. It can include multiple properties and methods and may even contain other objects. In most programming languages, objects are defined as classes.  |
 | Object Oriented Programming  | a programming paradigm based on the concept of "objects", which can contain data, in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods). Programs are designed by making them out of objects that interact with one another.  |
 | Class  | an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods).  |
